@@ -1,0 +1,120 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 532562 */
+  src: url('https://at.alicdn.com/t/font_532562_n47jlmzsvme1m7vi.eot');
+  src: url('https://at.alicdn.com/t/font_532562_n47jlmzsvme1m7vi.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_532562_n47jlmzsvme1m7vi.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_532562_n47jlmzsvme1m7vi.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_532562_n47jlmzsvme1m7vi.svg#iconfont') format('svg');
+}
+.box{
+	width: 7.5rem;
+	height: 13.34rem;
+	background-color: #fff;
+}
+.toubu{
+	width: 100%;
+	height: .935rem;
+	background-color: #e8373c;
+	padding-left: 3.38rem;
+	padding-right: .24rem;
+	line-height: .935rem;
+}
+.biaoti{
+	font-size: .37rem;
+	color: #fff;
+	float: left;
+	
+	margin-left: 3.17rem;
+
+}
+.fenxiang{
+	font-family: 'iconfont';
+	font-size: .37rem;
+	float: right;
+	color: #fff;
+	
+}
+.xiafangneirong{
+	width: 100%;
+	height: 12.005rem;
+	padding: 0 .18rem;
+	padding-top: .33rem;
+}
+.juti{
+	width: 6.74rem;
+	height: 2.06rem;
+	margin: 0 auto;
+	box-shadow: 0 5px 16px 1px #ccc;
+	padding-top: .17rem;
+	border-bottom: .05rem solid #e73383;
+	border-radius: .1rem;
+	
+}
+.datouxaing{
+	width: 2rem;
+	height: 1.65rem;
+	margin-left: .17rem;
+	float: left;
+}
+.wenzizuhe{
+	width: 3.88rem;
+	height: 1.5rem;
+	float: left;
+	margin-left: .22rem;
+	margin-top: .08rem;
+}
+.biaoti{
+	font-size: .3rem;
+	margin-left: 0;
+	margin-bottom: 0.15rem;
+	color: #000;
+}
+.xinxin{
+	width: 1.04rem;
+	height: .15rem;
+	margin-top:.15rem;
+}
+.xiaolunxia{
+	width: 3.88rem;
+	height: .22rem;
+	margin-top: .12rem;
+}
+.xufujie{
+	float: left;
+	font-size: .2rem;
+	font-weight: normal;
+	color: #a7a6a6;
+}
+.shuzi{
+	float: right;
+	font-size: .2rem;
+	font-weight: normal;
+	color: #a7a6a6;
+}
+.dianzan{
+	width: 4.2rem;
+	height: .27rem;
+	margin-top: .2rem;
+}
+.dianzanicon{
+	font-family: 'iconfont';
+	font-size: .24rem;
+	color: red;
+	float: left;
+}
+.xiaofei{
+	font-size: .24rem;
+	color: #a7a6a6;
+	float: left;
+	margin-left: .23rem;
+}
+.rem{
+	font-size: .2rem;
+	color: red;
+	float: right;
+	margin-left: .03rem;
+}
+.bianse{
+	color: #fff;
+	font-size: .39rem;
+}
